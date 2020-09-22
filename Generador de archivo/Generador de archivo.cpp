@@ -7,6 +7,6 @@ int main()
 {
 	Texiste nuevo;
 	nuevo.escribir();
-    std::cout << "Hello World!\n";
+    
 }
 

@@ -8,8 +8,13 @@ using namespace std;
 class Texiste
 {
 private:
+	string a;
 	string n;
 	string m;
+	string o;
+	string p;
+	string q;
+
 public:
 	Texiste();
 	~Texiste();
